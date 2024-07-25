@@ -1,0 +1,17 @@
+{
+  "id": "0001",
+  "type": "donut",
+  "name": "Cake",
+  "randomArray": "['a','true','false','890.299']",
+  "nestedArray": [{ "somethin": ["a", "true", "false", "890.299"] }],
+  "image": [
+    { "url": "images/0001.jpg", "width": "200", "height": { "k": 1 } },
+    { "url": "images/0001.jpg", "width": "200", "height": { "k": 1 } }
+  ],
+  "arr": [1, 2, 3],
+
+  "image2": [
+    { "url": "images/0001.jpg", "width": "100" },
+    { "url": "images/0002.jpg", "width": "200" }
+  ]
+}
